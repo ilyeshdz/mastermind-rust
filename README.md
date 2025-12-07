@@ -2,6 +2,8 @@
 
 A Mastermind game implementation in Rust. This is a full terminal-based game that runs entirely in your console.
 
+![The terminal game preview](preview.png)
+
 ## Why these dependencies?
 
 - **crossterm**: Used for terminal handling to provide a clean, cross-platform terminal interface with proper input/output control
